@@ -25,3 +25,14 @@
 .caprese {
     background-color: rgb(102, 207, 165);
 }
+
+h4,
+body p {
+    font-family: monospace;
+}
+
+h2,
+h3,
+div {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
