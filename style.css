@@ -1,0 +1,27 @@
+.hero {
+    font-style: italic;
+    color: black;
+}
+
+.mainpage {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(147, 50, 66);
+}
+
+
+.home {
+    background-color: rgb(144, 144, 237);
+}
+
+.lasagna {
+    background-color: rgb(231, 108, 59);
+}
+
+.eggs {
+    background-color: rgb(203, 203, 112);
+}
+
+.caprese {
+    background-color: rgb(102, 207, 165);
+}
